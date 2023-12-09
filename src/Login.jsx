@@ -21,7 +21,7 @@ const Login = () => {
             <div className="col-sm-12">
             <div className=''>
               {/* <span className='bg-info'>Scan the QR Code</span> */}
-          <img  alt="" style={{height:160}} />
+          <img src='https://media.istockphoto.com/id/828088276/vector/qr-code-illustration.jpg?s=612x612&w=0&k=20&c=FnA7agr57XpFi081ZT5sEmxhLytMBlK4vzdQxt8A70M=' alt="" style={{height:160}} />
         </div>
             </div>
           </div>
@@ -50,7 +50,7 @@ const Login = () => {
                 <span class="forgot-pass">
                   <a href="#">Forgot password?</a>
                 </span>
-                  <Link to="/home"><button class="btn signin">Log in</button></Link>
+                  <a href='https://www.google.com/'><button class="btn signin">Log in</button></a>
               </form>
             </div>
           </div>
